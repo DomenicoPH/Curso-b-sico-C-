@@ -6,6 +6,9 @@ namespace CursoBasico
     {
         static void Main(string[] args)
         {
+
+            // Tipos de datos
+
             int cajaentero = 15;
             int cajaenteronegativo = -4;
             int cajaentero2 = 1800;
@@ -45,6 +48,68 @@ namespace CursoBasico
 
             Console.WriteLine(verdadero);
             Console.WriteLine(falso);
+
+            // Condicionales
+
+            // condición igual que ==
+            if (cajaentero == cajaentero2)
+            {
+                Console.WriteLine("Son iguales");
+            }
+            else 
+            { 
+                Console.WriteLine(cajaentero + " y " + cajaentero2 + " no son iguales.");
+            }
+
+            // condición diferente que !=
+            if ( cajaentero != cajaentero2 )
+            {
+                Console.WriteLine("Son diferentes");
+            }
+            else
+            {
+                Console.WriteLine(cajaentero + " y " + cajaentero2 + " son iguales.");
+            }
+
+            // condición menor que <
+            if ( cajaentero < cajaentero2 )
+            {
+                Console.WriteLine(cajaentero + " es menor que " + cajaentero2);
+            }
+            else
+            {
+                Console.WriteLine(cajaentero + " es mayor que " + cajaentero2);
+            }
+
+            // condición mayor que >
+            if ( cajaentero > cajaentero2 )
+            {
+                Console.WriteLine(cajaentero + " es mayor que " + cajaentero2);
+            }
+            else
+            {
+                Console.WriteLine(cajaentero + " es menor que " + cajaentero2);
+            }
+
+
+            // Uso de bool para condiciones
+            if(verdadero)
+            {
+                Console.WriteLine("Es verdadero");
+            }
+            else
+            {
+                Console.WriteLine("Es falsa");
+            }
+
+            if (!verdadero)
+            {
+                Console.WriteLine("Es verdadero");
+            }
+            else
+            {
+                Console.WriteLine("Es falsa");
+            }
         }
     }
 }
