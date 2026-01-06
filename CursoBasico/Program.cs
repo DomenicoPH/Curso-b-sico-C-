@@ -6,109 +6,46 @@ namespace CursoBasico
     {
         static void Main(string[] args)
         {
+            int num1 = 10;
+            int num2 = 20;
+            int num3 = 30;
+            int num4 = 40;
 
-            // Tipos de datos
-
-            int cajaentero = 15;
-            int cajaenteronegativo = -4;
-            int cajaentero2 = 1800;
-
-            double materia_mate = 4.5;
-            double materia_espa = 8.5;
-
-            decimal dinero1 = (decimal) 250.76532;
-            decimal dinero2 = 630.67875M;
-
-            char letra = 'A';
-            char letra2 = 'B';
-            
-            string nombre = "Domenico";
-            string apellido = "Pagano";
-
-            bool verdadero = true;
-            bool falso = false;
-
-
-            Console.WriteLine("Hello, World!");
-
-            Console.WriteLine(cajaentero);
-            Console.WriteLine(cajaenteronegativo);
-            Console.WriteLine(cajaentero2);
-
-            Console.WriteLine(materia_mate);
-            Console.WriteLine(materia_espa);
-
-            Console.WriteLine(dinero1);
-            Console.WriteLine(dinero2);
-
-            Console.WriteLine(letra);
-            Console.WriteLine(letra2);
-
-            Console.WriteLine(nombre + ' ' + apellido);
-
-            Console.WriteLine(verdadero);
-            Console.WriteLine(falso);
-
-            // Condicionales
-
-            // condición igual que ==
-            if (cajaentero == cajaentero2)
+            // es igual que...
+            if (num1 == num2)
             {
-                Console.WriteLine("Son iguales");
+                Console.WriteLine(num1 + " es igual que " + num2);
             }
-            else 
-            { 
-                Console.WriteLine(cajaentero + " y " + cajaentero2 + " no son iguales.");
-            }
-
-            // condición diferente que !=
-            if ( cajaentero != cajaentero2 )
+            else if (num1 == num3) 
             {
-                Console.WriteLine("Son diferentes");
+                Console.WriteLine(num1 + " es igual que " + num3);
+            } 
+            else if(num1 == num4)
+            {
+                Console.WriteLine(num1 + " es igual que " + num4);
             }
             else
             {
-                Console.WriteLine(cajaentero + " y " + cajaentero2 + " son iguales.");
+                Console.WriteLine(num1 + " no es igual que los otros números.");
             }
 
-            // condición menor que <
-            if ( cajaentero < cajaentero2 )
+
+            // número mayor...
+            if (num3 < num1)
             {
-                Console.WriteLine(cajaentero + " es menor que " + cajaentero2);
+                Console.WriteLine(num3 + " es menor que " + num1);
+            }
+            else if (num3 < num2)
+            {
+                Console.WriteLine(num3 + " es menor que " + num2);
+            }
+            else if (num3 < num4)
+            {
+                Console.WriteLine(num3 + " es menor que " + num4);
             }
             else
             {
-                Console.WriteLine(cajaentero + " es mayor que " + cajaentero2);
-            }
-
-            // condición mayor que >
-            if ( cajaentero > cajaentero2 )
-            {
-                Console.WriteLine(cajaentero + " es mayor que " + cajaentero2);
-            }
-            else
-            {
-                Console.WriteLine(cajaentero + " es menor que " + cajaentero2);
-            }
-
-
-            // Uso de bool para condiciones
-            if(verdadero)
-            {
-                Console.WriteLine("Es verdadero");
-            }
-            else
-            {
-                Console.WriteLine("Es falsa");
-            }
-
-            if (!verdadero)
-            {
-                Console.WriteLine("Es verdadero");
-            }
-            else
-            {
-                Console.WriteLine("Es falsa");
+                Console.WriteLine(num3 + " es el número mayor");
             }
         }
     }
