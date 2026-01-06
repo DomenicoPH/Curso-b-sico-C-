@@ -10,7 +10,8 @@ namespace CursoBasico
             //ProgramClase02.Ejecutar();
             //ProgramClase03.Ejecutar();
             //ProgramClase04.Ejecutar();
-            ProgramClase05.Ejecutar();
+            //ProgramClase05.Ejecutar();
+            ProgramClase06.Ejecutar();
         }
     }
 }
