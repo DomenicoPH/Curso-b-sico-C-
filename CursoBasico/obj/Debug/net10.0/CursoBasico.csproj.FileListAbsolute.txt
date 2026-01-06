@@ -1,0 +1,14 @@
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\bin\Debug\net10.0\CursoBasico.exe
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\bin\Debug\net10.0\CursoBasico.deps.json
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\bin\Debug\net10.0\CursoBasico.runtimeconfig.json
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\bin\Debug\net10.0\CursoBasico.dll
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\bin\Debug\net10.0\CursoBasico.pdb
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\CursoBasico.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\CursoBasico.AssemblyInfoInputs.cache
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\CursoBasico.AssemblyInfo.cs
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\CursoBasico.csproj.CoreCompileInputs.cache
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\CursoBasico.dll
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\refint\CursoBasico.dll
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\CursoBasico.pdb
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\CursoBasico.genruntimeconfig.cache
+D:\TRABAJO\CODING\C#\curso Csharp Coding_con_C\CursoBasico\CursoBasico\obj\Debug\net10.0\ref\CursoBasico.dll
