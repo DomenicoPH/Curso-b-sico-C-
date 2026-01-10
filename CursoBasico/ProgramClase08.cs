@@ -46,7 +46,7 @@ namespace CursoBasico
 
             for(int cont = 0; cont < arr.Length; cont++)
             {
-                Console.WriteLine(arr[cont] + " ");
+                Console.Write(arr[cont] + " ");
             }
 
             Console.WriteLine("--- Fin del programa ---");
