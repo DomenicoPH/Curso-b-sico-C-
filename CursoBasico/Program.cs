@@ -18,8 +18,10 @@ namespace CursoBasico
             //ProgramClase10.Ejecutar();
             //ProgramClase11.Ejecutar();
             //ProgramClase12.Ejecutar();
-            ProgramClase13.Ejecutar();
-
+            //ProgramClase13.Ejecutar();
+            //ProgramClase14.Ejecutar();
+            //ProgramClase15.Ejecutar();
+            Calculadora.Ejecutar();
         }
     }
 }
