@@ -21,7 +21,8 @@ namespace CursoBasico
             //ProgramClase13.Ejecutar();
             //ProgramClase14.Ejecutar();
             //ProgramClase15.Ejecutar();
-            Calculadora.Ejecutar();
+            //Calculadora.Ejecutar();
+            Promedios.Ejecutar();
         }
     }
 }
