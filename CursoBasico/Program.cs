@@ -23,7 +23,8 @@ namespace CursoBasico
             //ProgramClase15.Ejecutar();
             //Calculadora.Ejecutar();
             //Promedios.Ejecutar();
-            Loteria.Ejecutar();
+            //Loteria.Ejecutar();
+            LoteriaFixed.Ejecutar();
         }
     }
 }
