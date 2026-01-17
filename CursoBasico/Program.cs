@@ -24,7 +24,8 @@ namespace CursoBasico
             //Calculadora.Ejecutar();
             //Promedios.Ejecutar();
             //Loteria.Ejecutar();
-            LoteriaFixed.Ejecutar();
+            //LoteriaFixed.Ejecutar();
+            Robot.Ejecutar();
         }
     }
 }
